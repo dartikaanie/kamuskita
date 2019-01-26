@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kamus Kita</string>
+    <string name="loading">loading</string>
+    <string name="loadingEngDo">get data English - Indonesian</string>
+    <string name="loadingIndoEng">mengambil data Indonesia _ inggris</string>
+
+    <string name="title_activity_kamus">Kamus Kita</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Kamus Kita</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_first_run">first_run</string>
+    <string name="appbar_scrolling_view_behavior" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="english_indonesian">English - Indonesian</string>
+    <string name="indonesian_english">Indonesian - English</string>
+    <string name="indonesia_inggris">Indonesia - Inggris</string>
+</resources>
